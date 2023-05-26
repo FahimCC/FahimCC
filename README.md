@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="center" width="100%" src="https://www.lambdatest.com/resources/images/news24.gif" />
 <h1 align="center">Assalamu Alaikum, Myself Fahim Faysal</h1> 
 <h3 align="center">I am a passionate Mern Stack Developer and do code enthusiastically.</h3>
 
