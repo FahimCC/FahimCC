@@ -10,8 +10,10 @@
 
 - 📫 How to reach me **ffnasif@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N_5PUzVBQdgjjPurrBUxekiTikQIv7VF/view?usp=sharing](https://drive.google.com/file/d/1N_5PUzVBQdgjjPurrBUxekiTikQIv7VF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N_5PUzVBQdgjjPurrBUxekiTikQIv7VF/view?usp=sharing)
 
+- 🌐 My [Portfolio](https://fahim-porfolio.vercel.app/)
+- 
 - ⚡ Fun fact **Talk is cheap, Show me your code.**
 
 <h3 align="left">Connect with me:</h3>
