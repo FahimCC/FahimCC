@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ffnasif@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N_5PUzVBQdgjjPurrBUxekiTikQIv7VF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LHTvkyp_Gj_gijRvT2bTYw3pgg1dHqU6/view?usp=drive_link) 
 
 - 🌐 My [Portfolio](https://fahim-porfolio.vercel.app/)
 - 
